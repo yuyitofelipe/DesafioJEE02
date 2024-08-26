@@ -1,6 +1,6 @@
 package cl.praxis.models;
 
-import cl.praxis.models.Habitacion;
+
 import java.util.ArrayList;
 import java.util.List;
 
